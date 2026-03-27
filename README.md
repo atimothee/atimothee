@@ -3,7 +3,7 @@
 I build 0→1 products in high-ambiguity environments — the kind where the playbook 
 doesn't exist yet and you have to write it as you go.
 
-My background spans early-stage startups, corporate venture, and investing: I've led 
+My background spans early-stage startups, software engineering, and venture investing: I've led 
 a global fintech venture lab inside a $600M entity, shipped products as an early 
 engineer at a YC-backed startup (raised $40M Series A), founded and scaled a company 
 from 0 to 1,500 SMB customers across 7 countries, and deployed $2M+ as an early-stage 
