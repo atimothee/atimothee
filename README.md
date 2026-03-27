@@ -18,7 +18,7 @@ recruiting for product management roles in fintech and applied AI.
 
 ---
 
-## 🛠️ Things I've Built
+## 🛠️ Recent Things I've Built (Vibe-Coding)
 
 ### [IB Interview Gym](https://ib-interview-gym.vercel.app/)
 AI-powered prep platform for investment banking interviews. Combines adaptive 
