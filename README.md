@@ -20,14 +20,6 @@ recruiting for product management roles in fintech and applied AI.
 
 ## 🛠️ Recent Things I've Built (Vibe-Coding)
 
-### [IB Interview Gym](https://ib-interview-gym.vercel.app/)
-AI-powered prep platform for investment banking interviews. Combines adaptive 
-flashcards with VP-style mock interviews, real-time feedback, and scorecards — so 
-candidates walk into Superdays sounding polished and confident.  
-`AI` `EdTech` `Voice` `Fintech`
-
----
-
 ### [Velites](https://velites.ai/)
 AI deal intelligence for VC funds. Multi-agent pipeline that screens and scores pitch 
 decks against a fund's custom thesis — delivering explainable evaluations in minutes 
@@ -37,20 +29,28 @@ the [Columbia Business School AI Startup Challenge](https://business.columbia.ed
 
 ---
 
-### [Yale SOM Network Navigator](https://yale-som-navigator.vercel.app/)
-RAG-powered alumni search and outreach tool for the Yale SOM community. Search 10K+ 
-alumni in plain English and generate personalized outreach grounded in your own 
-background — no filter maze required.  
-`RAG` `LLM` `Productivity` `EdTech`
-
----
-
 ### [PreDine AR](https://predine-ar.web.app/)
 AI-powered menu translator and dish visualizer for travelers. Scan any foreign menu, 
 get instant dish explanations with allergen info, generate AI images of dishes, preview 
 them on your table in AR, and communicate dietary needs to waiters in the local language. 
 Won 3rd place at the Google x Yale Build with AI Hackathon.  
 `AI Agents` `AR` `Travel` `Voice`
+
+---
+
+### [IB Interview Gym](https://ib-interview-gym.vercel.app/)
+AI-powered prep platform for investment banking interviews. Combines adaptive 
+flashcards with VP-style mock interviews, real-time feedback, and scorecards — so 
+candidates walk into Superdays sounding polished and confident.  
+`AI` `EdTech` `Voice` `Fintech`
+
+---
+
+### [Yale SOM Network Navigator](https://yale-som-navigator.vercel.app/)
+RAG-powered alumni search and outreach tool for the Yale SOM community. Search 10K+ 
+alumni in plain English and generate personalized outreach grounded in your own 
+background — no filter maze required.  
+`RAG` `LLM` `Productivity` `EdTech`
 
 ---
 
