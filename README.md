@@ -31,7 +31,8 @@ candidates walk into Superdays sounding polished and confident.
 ### [Velites](https://velites.ai/)
 AI deal intelligence for VC funds. Multi-agent pipeline that screens and scores pitch 
 decks against a fund's custom thesis — delivering explainable evaluations in minutes 
-instead of hours. Built at Yale; piloted with real investor teams.  
+instead of hours. Built at Yale; piloted with real investor teams. Semi-finalist at 
+the [Columbia Business School AI Startup Challenge](https://business.columbia.edu/ai-startup-challenge).  
 `AI Agents` `VC` `B2B SaaS` `Fintech`
 
 ---
@@ -41,6 +42,15 @@ RAG-powered alumni search and outreach tool for the Yale SOM community. Search 1
 alumni in plain English and generate personalized outreach grounded in your own 
 background — no filter maze required.  
 `RAG` `LLM` `Productivity` `EdTech`
+
+---
+
+### [PreDine AR](https://predine-ar.web.app/)
+AI-powered menu translator and dish visualizer for travelers. Scan any foreign menu, 
+get instant dish explanations with allergen info, generate AI images of dishes, preview 
+them on your table in AR, and communicate dietary needs to waiters in the local language. 
+Won 3rd place at the Google x Yale Build with AI Hackathon.  
+`AI Agents` `AR` `Travel` `Voice`
 
 ---
 
