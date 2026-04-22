@@ -1,5 +1,7 @@
 # Hey, I'm Timo 👋
 
+Ex-founder/engineer/VC -> Back to Building 
+
 I build 0→1 products in high-ambiguity environments — the kind where the playbook 
 doesn't exist yet and you have to write it as you go.
 
