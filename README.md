@@ -15,7 +15,7 @@ to go-to-market to unit economics.
 I'm drawn to frontier problems, new markets, and unwritten playbooks. Currently 
 recruiting for product management roles in fintech and applied AI.
 
-📝 I write on technology, markets, and strategy → [seeingaroundcorners.substack.com](https://seeingaroundcorners.substack.com)  
+📝 I occasionally write on technology, markets, and strategy → [timothyasiimwe.com](https://timothyasiimwe.com)  
 🤝 Always happy to connect with others building in fintech, applied AI, and frontier spaces.
 
 ---
@@ -59,3 +59,4 @@ background — no filter maze required.
 ## 📬 Let's Connect
 - LinkedIn: [linkedin.com/in/timothyasiimwe](https://linkedin.com/in/timothyasiimwe)
 - Substack: [seeingaroundcorners.substack.com](https://seeingaroundcorners.substack.com)
+- Blog: [timothyasiimwe.com](https://timothyasiimwe.com)
