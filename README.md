@@ -56,6 +56,15 @@ background — no filter maze required.
 
 ---
 
+### [LaunchLens](https://launch-lens-two.vercel.app)
+AI research workflow for marketing and product teams. Feed it an audience and a 
+question — it scrapes the voice of the customer, clusters it into structured insights, 
+runs probing AI customer interviews, and synthesizes campaign-ready positioning and 
+messaging.  
+`AI Agents` `Marketing` `Research` `B2B SaaS`
+
+---
+
 ## 📬 Let's Connect
 - LinkedIn: [linkedin.com/in/timothyasiimwe](https://linkedin.com/in/timothyasiimwe)
 - Substack: [seeingaroundcorners.substack.com](https://seeingaroundcorners.substack.com)
