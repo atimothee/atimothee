@@ -9,7 +9,7 @@ My journey is unique: I've led a global fintech venture lab inside a $600M organ
 That range shapes how I think about product building. I'm drawn to frontier problems, new markets, and unwritten playbooks. I operate comfortably across technical architecture, product strategy, and go-to-market.
 
 📝 I occasionally write about the ideas I’m thinking through → [seeingaroundcorners.substack.com](https://seeingaroundcorners.substack.com)  
-🎓 I'm currently completing my graduate degree at Yale School of Management.
+🎓 I'm currently completing my graduate degree at Yale School of Management.  
 🤝 Always happy to connect with others building in applied AI, fintech and frontier spaces.
 
 ---
