@@ -32,7 +32,7 @@ the [Columbia Business School AI Startup Challenge](https://business.columbia.ed
 <a href="https://velites.ai/velites-demo.mp4"><img src="assets/velites.png" alt="Velites" width="400"></a>
 
 `Multi-Agent` `Document AI` `Structured Output` `VC`  
-🎥 [Watch demo](https://velites.ai/velites-demo.mp4)
+🎥 [Demo](https://velites.ai/velites-demo.mp4)
 
 ---
 
@@ -65,7 +65,7 @@ like you. Built on a RAG pipeline over 1,300+ profiles.
 <a href="https://somgraph.com/demo.mp4"><img src="assets/somgraph.png" alt="Yale SOM Graph" width="400"></a>
 
 `Agentic RAG` `Semantic Search` `Chat Agents` `Productivity`  
-🎥 [Watch demo](https://somgraph.com/demo.mp4)
+🎥 [Demo](https://somgraph.com/demo.mp4)
 
 ---
 
