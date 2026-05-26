@@ -32,7 +32,10 @@ the [Columbia Business School AI Startup Challenge](https://business.columbia.ed
 AI-powered menu translator and dish visualizer for travelers. Scan any foreign menu, 
 get instant dish explanations with allergen info, generate AI images of dishes, preview 
 them on your table in AR, and communicate dietary needs to waiters in the local language. 
-Won 3rd place at the [Google x Yale Build with AI Hackathon](https://gdg.community.dev/events/details/google-gdg-nyc-presents-yale-build-with-ai-hackathon-x-google-cloud-labs-day-i/).  
+Won 3rd place at the [Google x Yale Build with AI Hackathon](https://gdg.community.dev/events/details/google-gdg-nyc-presents-yale-build-with-ai-hackathon-x-google-cloud-labs-day-i/).
+
+<a href="https://drive.google.com/file/d/1ksKNq5GDdJJcNnGfM-4NDOOfHXJetVGf/view?usp=drive_link"><img src="assets/predine-wide.jpg" alt="PreDine AR" width="400"></a>
+
 `Vision-Language` `Image Generation` `Voice AI` `Real-Time`  
 🎥 [Demo](https://drive.google.com/file/d/1ksKNq5GDdJJcNnGfM-4NDOOfHXJetVGf/view?usp=drive_link)
 
