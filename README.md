@@ -72,9 +72,12 @@ like you. Built on a RAG pipeline over 1,300+ profiles.
 AI research workflow for marketing and product teams. Feed it an audience and a 
 question — it scrapes the voice of the customer, clusters it into structured insights, 
 runs probing AI customer interviews, and synthesizes campaign-ready positioning and 
-messaging.  
+messaging.
+
+<a href="https://launch-lens-two.vercel.app/launchlens-demo.mp4"><img src="assets/launchlens.png" alt="LaunchLens" width="400"></a>
+
 `Multi-Agent` `Web Scraping` `Clustering` `Marketing`  
-🎥 [Demo](#)
+🎥 [Demo](https://launch-lens-two.vercel.app/launchlens-demo.mp4)
 
 ---
 
