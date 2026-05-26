@@ -2,20 +2,21 @@
 
 Ex-founder/engineer/VC -> Back to Building 
 
-I build 0→1 products in high-ambiguity environments — the kind where the playbook 
+I build 0→1 products in high-ambiguity environments, the kind where the playbook 
 doesn't exist yet and you have to write it as you go.
 
 My background spans early-stage startups, software engineering, and venture investing: I've led 
 a global fintech venture lab inside a $600M entity, shipped products as an early 
 engineer at a YC-backed startup (raised $40M Series A), founded and scaled a company 
 from 0 to 1,500 SMB customers across 7 countries, and deployed $2M+ as an early-stage 
-investor. That range shapes how I think about product — from technical architecture 
-to go-to-market to unit economics.
+investor. That range shapes how I think about product building.
 
-I'm drawn to frontier problems, new markets, and unwritten playbooks. Currently 
-recruiting for product management roles in fintech and applied AI.
+I'm drawn to frontier problems, new markets, and unwritten playbooks. I operate 
+comfortably across technical architecture, product strategy, and go-to-market.
 
-📝 I occasionally write on technology, markets, and strategy → [timothyasiimwe.com](https://timothyasiimwe.com)  
+Currently recruiting for product management roles in fintech and applied AI.
+
+📝 I occasionally write on technology, markets, and strategy → [seeingaroundcorners.substack.com](https://seeingaroundcorners.substack.com)  
 🤝 Always happy to connect with others building in fintech, applied AI, and frontier spaces.
 
 ---
@@ -26,8 +27,12 @@ recruiting for product management roles in fintech and applied AI.
 AI deal intelligence for VC funds. Multi-agent pipeline that screens and scores pitch 
 decks against a fund's custom thesis — delivering explainable evaluations in minutes 
 instead of hours. Built at Yale; piloted with real investor teams. Semi-finalist at 
-the [Columbia Business School AI Startup Challenge](https://business.columbia.edu/ai-startup-challenge).  
-`AI Agents` `VC` `B2B SaaS` `Fintech`
+the [Columbia Business School AI Startup Challenge](https://business.columbia.edu/ai-startup-challenge).
+
+<a href="https://velites.ai/velites-demo.mp4"><img src="assets/velites.png" alt="Velites" width="400"></a>
+
+`Multi-Agent` `Document AI` `Structured Output` `VC`  
+🎥 [Watch demo](https://velites.ai/velites-demo.mp4)
 
 ---
 
@@ -36,7 +41,8 @@ AI-powered menu translator and dish visualizer for travelers. Scan any foreign m
 get instant dish explanations with allergen info, generate AI images of dishes, preview 
 them on your table in AR, and communicate dietary needs to waiters in the local language. 
 Won 3rd place at the [Google x Yale Build with AI Hackathon](https://gdg.community.dev/events/details/google-gdg-nyc-presents-yale-build-with-ai-hackathon-x-google-cloud-labs-day-i/).  
-`AI Agents` `AR` `Travel` `Voice`
+`Vision-Language` `Image Generation` `Voice AI` `AR`  
+🎥 [Demo](https://drive.google.com/file/d/1ksKNq5GDdJJcNnGfM-4NDOOfHXJetVGf/view?usp=drive_link)
 
 ---
 
@@ -44,15 +50,22 @@ Won 3rd place at the [Google x Yale Build with AI Hackathon](https://gdg.communi
 AI-powered prep platform for investment banking interviews. Combines adaptive 
 flashcards with VP-style mock interviews, real-time feedback, and scorecards — so 
 candidates walk into Superdays sounding polished and confident.  
-`AI` `EdTech` `Voice` `Fintech`
+`Voice AI` `Real-Time` `LLM Evaluation` `EdTech`  
+🎥 [Demo](#)
 
 ---
 
-### [Yale SOM Network Navigator](https://yale-som-navigator.vercel.app/)
-RAG-powered alumni search and outreach tool for the Yale SOM community. Search 10K+ 
-alumni in plain English and generate personalized outreach grounded in your own 
-background — no filter maze required.  
-`RAG` `LLM` `Productivity` `EdTech`
+### [Yale SOM Graph](https://www.somgraph.com/)
+Semantic search and conversational outreach over the Yale SOM alumni network. 
+Describe who you're looking for in plain English ("people who pivoted from finance 
+to product") and SOM Graph retrieves grounded profiles, then drafts a LinkedIn 
+message tailored to both their career and yours. Refine it in chat until it sounds 
+like you. Built on a RAG pipeline over 1,300+ profiles.
+
+<a href="https://somgraph.com/demo.mp4"><img src="assets/somgraph.png" alt="Yale SOM Graph" width="400"></a>
+
+`Agentic RAG` `Semantic Search` `Chat Agents` `Productivity`  
+🎥 [Watch demo](https://somgraph.com/demo.mp4)
 
 ---
 
@@ -61,7 +74,8 @@ AI research workflow for marketing and product teams. Feed it an audience and a
 question — it scrapes the voice of the customer, clusters it into structured insights, 
 runs probing AI customer interviews, and synthesizes campaign-ready positioning and 
 messaging.  
-`AI Agents` `Marketing` `Research` `B2B SaaS`
+`Multi-Agent` `Web Scraping` `Clustering` `Marketing`  
+🎥 [Demo](#)
 
 ---
 
