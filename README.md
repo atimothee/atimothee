@@ -6,12 +6,7 @@ I build 0→1 products in high-ambiguity environments.
 
 My journey is unique: I've led a global fintech venture lab inside a $600M organization, built products at a YC-backed fintech that raised a $40M Series A, founded and scaled a startup to 1,500 SMB customers across 7 countries, and deployed $2M+ into early-stage companies.
 
-That range shapes how I think about product building.
-
-I'm drawn to frontier problems, new markets, and unwritten playbooks. I operate 
-comfortably across technical architecture, product strategy, and go-to-market.
-
-Open to product and deployment strategist roles in applied AI and fintech, especially where ambiguity, technical depth, and 0→1 execution matter.
+That range shapes how I think about product building. I'm drawn to frontier problems, new markets, and unwritten playbooks. I operate comfortably across technical architecture, product strategy, and go-to-market.
 
 📝 I occasionally write about the ideas I’m thinking through → [seeingaroundcorners.substack.com](https://seeingaroundcorners.substack.com)  
 🤝 Always happy to connect with others building in applied AI, fintech and frontier spaces.
