@@ -2,22 +2,19 @@
 
 Ex-founder/engineer/VC -> Back to Building 
 
-I build 0→1 products in high-ambiguity environments, the kind where the playbook 
-doesn't exist yet and you have to write it as you go.
+I build 0→1 products in high-ambiguity environments.
 
-My background spans early-stage startups, software engineering, and venture investing: I've led 
-a global fintech venture lab inside a $600M entity, shipped products as an early 
-engineer at a YC-backed startup (raised $40M Series A), founded and scaled a company 
-from 0 to 1,500 SMB customers across 7 countries, and deployed $2M+ as an early-stage 
-investor. That range shapes how I think about product building.
+My journey is unique: I've led a global fintech venture lab inside a $600M organization, built products at a YC-backed fintech that raised a $40M Series A, founded and scaled a startup to 1,500 SMB customers across 7 countries, and deployed $2M+ into early-stage companies.
+
+That range shapes how I think about product building.
 
 I'm drawn to frontier problems, new markets, and unwritten playbooks. I operate 
 comfortably across technical architecture, product strategy, and go-to-market.
 
-Currently recruiting for product management roles in fintech and applied AI.
+Open to product and deployment strategist roles in applied AI and fintech, especially where ambiguity, technical depth, and 0→1 execution matter.
 
-📝 I occasionally write on technology, markets, and strategy → [seeingaroundcorners.substack.com](https://seeingaroundcorners.substack.com)  
-🤝 Always happy to connect with others building in fintech, applied AI, and frontier spaces.
+📝 I occasionally write about the ideas I’m thinking through → [seeingaroundcorners.substack.com](https://seeingaroundcorners.substack.com)  
+🤝 Always happy to connect with others building in applied AI, fintech and frontier spaces.
 
 ---
 
