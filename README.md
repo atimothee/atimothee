@@ -8,6 +8,8 @@ My journey is unique: I've led a global fintech venture lab inside a $600M organ
 
 That range shapes how I think about product building. I'm drawn to frontier problems, new markets, and unwritten playbooks. I operate comfortably across technical architecture, product strategy, and go-to-market.
 
+Over the past few months, I’ve been building hands-on with Claude Code and Cursor, with 1k+ GitHub commits. See my AI portfolio below for examples of what I’ve shipped.
+
 📝 I occasionally write about the ideas I’m thinking through → [seeingaroundcorners.substack.com](https://seeingaroundcorners.substack.com)  
 🎓 I'm currently completing my graduate degree at Yale School of Management.  
 🤝 Always happy to connect with others building in applied AI, fintech and frontier spaces.
