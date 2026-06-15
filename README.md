@@ -98,7 +98,8 @@ never deletes or sends mail. Won **Best Use of CopilotKit** at
 A demo exploring [x402](https://www.x402.org/) — the HTTP-native payment protocol that 
 lets agents and apps pay per request in stablecoins. Wires pay-per-call access into an 
 asset prediction flow, so each inference is gated by a programmatic micropayment instead 
-of an API key or subscription.
+of an API key or subscription. Built at 
+[Agentic Commerce Build Day](https://luma.com/sbxje1du) during NY Tech Week.
 
 `x402` `Agentic Payments` `Stablecoins` `Crypto`
 
