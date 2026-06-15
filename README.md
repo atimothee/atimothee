@@ -83,6 +83,27 @@ messaging.
 
 ---
 
+### [EmailSignal](https://github.com/atimothee/email-signal/)
+A Chrome extension backed by a local Node sidecar that distills your visible Gmail or 
+Outlook into a short list of *decisions* — the few things that actually need you today. 
+Multi-agent, date-aware, human-in-the-loop; reads only what you can see in the tab and 
+never deletes or sends mail. Won **Best Use of CopilotKit** at 
+[WeaveHacks 4](https://luma.com/weavehacks?tk=LYmVn0) in San Francisco.
+
+`Multi-Agent` `Chrome Extension` `Generative UI` `Productivity`
+
+---
+
+### [Asset Prediction](https://github.com/atimothee/asset-prediction)
+A demo exploring [x402](https://www.x402.org/) — the HTTP-native payment protocol that 
+lets agents and apps pay per request in stablecoins. Wires pay-per-call access into an 
+asset prediction flow, so each inference is gated by a programmatic micropayment instead 
+of an API key or subscription.
+
+`x402` `Agentic Payments` `Stablecoins` `Crypto`
+
+---
+
 ## 📬 Let's Connect
 - LinkedIn: [linkedin.com/in/timothyasiimwe](https://linkedin.com/in/timothyasiimwe)
 - Substack: [seeingaroundcorners.substack.com](https://seeingaroundcorners.substack.com)
